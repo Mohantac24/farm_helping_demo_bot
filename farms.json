@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ramesh",
+    "phone": "9876543210",
+    "area": "Erode",
+    "location": "https://maps.google.com/?q=11.1271,78.6569"
+  },
+  {
+    "name": "Suresh",
+    "phone": "9123456789",
+    "area": "Namakkal",
+    "location": "No location"
+  }
+]
