@@ -1,7 +1,7 @@
 import json
 from telegram.ext import Updater, MessageHandler, Filters
 
-TOKEN = "PASTE_YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "8770670315:AAHLIJUJ2IJshm-pSpFRKQZx-LHo5MP3OPk"
 
 with open("farms.json") as f:
     farms = json.load(f)
